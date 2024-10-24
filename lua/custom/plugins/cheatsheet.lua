@@ -2,9 +2,6 @@
 return {
     "sudormrfbin/cheatsheet.nvim",
     lazy = true,
-    cmd = {
-        "CheatSheet", 
-     },
     -- optional for floating window border decoration
     dependencies = {
         "nvim-telescope/telescope.nvim",
